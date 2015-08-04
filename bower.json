@@ -1,0 +1,23 @@
+{
+  "name": "crud-mysqli",
+  "version": "0.0.0",
+  "authors": [
+    "lexsofahmi <lexsofahmi@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "assets/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "fontawesome": "~4.4.0",
+    "datatables": "~1.10.7",
+    "datatables-plugins": "~1.10.7",
+    "datatables-responsive": "~1.0.6"
+  }
+}
